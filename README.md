@@ -7,6 +7,8 @@ Training template and example : https://yclipse.github.io/CNN-core-flooding-muCT
 
 The trained model can be downloaded via : https://drive.google.com/file/d/18-Gna1Xr8JFSIsWGmflSBow3VkO8tS1B/view?usp=sharing
 
+Tutorial for muCT image processing and segmentation using scikit-image please visit : https://github.com/yclipse/muCTimage_processing_tutorial
+
 
 ### Prerequisite 
 PyTorch
