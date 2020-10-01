@@ -13,4 +13,5 @@ PyTorch
 
 CUDA toolkit (enable GPU acceleration)
 
+### Example CNN architecture
 ![alt text](https://github.com/yclipse/CNN-core-flooding-muCT/blob/master/example_results/unet_redraw.png)
